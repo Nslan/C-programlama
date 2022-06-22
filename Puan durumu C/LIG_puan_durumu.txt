@@ -1,0 +1,12 @@
+Puan	AVE	AG	YG	OMS	BER	MAG	GAL	TAKIM
+
+2	-2	3	5	3	1	1	1	kasimpasa	
+1	3	6	3	2	0	1	1	idmangucu	
+1	0	0	0	1	1	0	0	sebatspor	
+1	-1	4	5	2	0	1	1	idmanocagi	
+0	0	0	0	0	0	0	0	Yelkenciler	
+0	0	0	0	0	0	0	0	ugurspor	
+0	0	0	0	0	0	0	0	takaspor	
+0	0	0	0	0	0	0	0	gencbelediye	
+0	0	0	0	0	0	0	0	ofspor	
+0	0	0	0	0	0	0	0	mackaspor	
